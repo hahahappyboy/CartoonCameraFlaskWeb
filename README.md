@@ -1,4 +1,4 @@
-# CartoonCamera(Android卡通人脸转换APP)
+# CartoonCamera的后台程序(Android卡通人脸转换APP的后台程序)
 
 # 写在前面~
 APP界面参考了微信小程序AI卡通秀，项目是在[MagicCamera](https://github.com/Dean1990/MagicCamera)上魔改的。博主技术菜也没有时间做优化~程序大概率会有很多bug，只能说按正常操作使用不会出问题，若遇到什么问题欢迎留言，请大家见谅！
